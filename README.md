@@ -9,6 +9,7 @@ For testing multiple approaches for user auth in django
 **User:**
 - Proxy Models
 - One To One Field
+  - Extend user Model by connecting it to a profile Model
 - Extend Abstract Base User
 - Extend Abstract User
 
